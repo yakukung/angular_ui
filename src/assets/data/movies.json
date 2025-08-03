@@ -1,0 +1,44 @@
+[
+  {
+    "moviesid":1, 
+    "title": "Inception",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "rating": 8.8,
+    "story": "Dom Cobb is a thief with the rare ability to enter people’s dreams and steal their secrets from their subconscious. He is given a chance to erase his criminal history if he can successfully perform inception."
+  },
+  {
+    "moviesid":2, 
+    "title": "Interstellar",
+    "image": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg",
+    "rating": 8.6,
+    "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity’s survival as Earth becomes uninhabitable."
+  },
+  {
+    "moviesid":3, 
+    "title": "The Dark Knight",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 9.0,
+    "story": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos and forces the hero to question everything he believes."
+  },
+  {
+    "moviesid":4, 
+    "title": "The Matrix",
+    "image": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+    "rating": 8.7,
+    "story": "A computer hacker learns that his reality is a simulation and joins a rebellion to fight against the controllers of the simulated world."
+  },
+  {
+    "moviesid":5, 
+    "title": "Avatar",
+    "image": "https://m.media-amazon.com/images/I/41kTVLeW1CL.jpg",
+    "rating": 7.8,
+    "story": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, but he becomes torn between following orders and protecting the world he feels is his new home."
+  },
+  {
+    "moviesid":6, 
+    "title": "Titanic",
+    "image": "https://upload.wikimedia.org/wikipedia/th/1/18/Titanic_%281997_film%29_poster.png",
+    "rating": 7.9,
+    "story": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+  }
+]

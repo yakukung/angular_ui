@@ -1,0 +1,41 @@
+.persons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.person-card {
+  width: 140px;
+  text-align: center;
+  background-color: #222;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+
+  img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%; /* ทำรูปให้เป็นวงกลม */
+    margin-bottom: 8px;
+  }
+
+  h4 {
+    margin: 5px 0 3px 0;
+  }
+
+  p {
+    margin: 0;
+    font-size: 14px;
+    color: #ccc;
+  }
+}
+.section-title {
+  font-size: 24px;
+  color: #f7f6f3;
+  margin: 40px;
+  margin-left: 450px;
+  text-align: left;
+}
+

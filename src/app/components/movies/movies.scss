@@ -1,0 +1,38 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.movie-card {
+  width: 150px;
+  text-align: center;
+  background: #111;
+  padding: 10px;
+  border-radius: 8px;
+
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  button {
+    margin-top: 5px;
+    background-color: #ffcc00;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+}
+.section-title {
+  font-size: 24px;
+  color: #eeedea;
+  margin: 20px;
+  margin-left: 450px;
+  text-align: left;
+}
+
+
+

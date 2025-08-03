@@ -1,0 +1,12 @@
+<h2 class="section-title">Top 10 on IMDb this week</h2>
+<div class="movies">
+  <div *ngFor="let movie of movies" class="movie-card">
+    <img [src]="movie.image" alt="{{movie.title}}" />
+    <h3>{{ movie.title }}</h3>
+    <p><strong>Rating:</strong> {{ movie.rating }}</p>
+    <!-- <button>View Details</button> -->
+     <!-- <button routerLink="/detailmovie/{{movie.moviesid}}" >Test QueryParams</button> -->
+       <button (click)="showdetailMovie(movie.moviesid)">Test QueryParams</button>
+  </div>
+</div>
+<app-persons></app-persons>

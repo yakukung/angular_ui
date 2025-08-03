@@ -1,0 +1,8 @@
+<h2 class="section-title">Born Today</h2>
+<div class="persons">
+  <div *ngFor="let person of persons" class="person-card">
+    <img [src]="person.image" alt="{{ person.firstName }}" />
+    <h4>{{ person.firstName }} {{ person.lastName }}</h4>
+    <p>Age: {{ person.age }}</p>
+  </div>
+</div>
